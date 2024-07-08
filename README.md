@@ -1,0 +1,1 @@
+Lo scopo di questo progetto è quello di sviluppare un sistema distribuito che fornisca uno strumento per la creazione e la gestione di carte fedeltà per la raccolta punti di alcune catene di negozi. L’idea è quella di facilitare le transazioni dei punti delle carte che appartengono ad un singolo negozio o ad un consorzio di negozi da parte del personale.
